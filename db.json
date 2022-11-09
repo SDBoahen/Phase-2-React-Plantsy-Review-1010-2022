@@ -1,0 +1,58 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Aloe",
+      "image": "./images/aloe.jpg",
+      "price": 15.99
+    },
+    {
+      "id": 2,
+      "name": "ZZ Plant",
+      "image": "./images/zz-plant.jpg",
+      "price": 25.98
+    },
+    {
+      "id": 3,
+      "name": "Pilea peperomioides",
+      "image": "./images/pilea.jpg",
+      "price": 5.99
+    },
+    {
+      "id": 4,
+      "name": "Pothos",
+      "image": "./images/pothos.jpg",
+      "price": 12.11
+    },
+    {
+      "id": 5,
+      "name": "Jade",
+      "image": "./images/jade.jpg",
+      "price": 10.37
+    },
+    {
+      "id": 6,
+      "name": "Monstera Deliciosa",
+      "image": "./images/monstera.jpg",
+      "price": 25.99
+    },
+    {
+      "id": 7,
+      "name": "Fiddle Leaf Fig",
+      "image": "./images/fiddle-leaf-fig.jpg",
+      "price": 55
+    },
+    {
+      "name": "Narutooooo",
+      "image": "https://staticg.sportskeeda.com/editor/2022/05/a4e09-16532140327501-1920.jpg",
+      "price": "123.21",
+      "id": 8
+    },
+    {
+      "name": "Sam",
+      "image": "https://ca.slack-edge.com/T02MD9XTF-U018W9H54N6-38321cb359b0-512",
+      "price": "333.33",
+      "id": 9
+    }
+  ]
+}
